@@ -75,7 +75,8 @@
 				860FFA06262D626600B93103 /* ACPCore */,
 				860FFA04262D626600B93103 /* ACPMobileServices */,
 			);
-			path = Vendor;
+			name = Vendor;
+			path = "../../External Dependencies/Adobe";
 			sourceTree = "<group>";
 		};
 		860FFA02262D626600B93103 /* ACPAnalytics */ = {
@@ -83,8 +84,7 @@
 			children = (
 				860FFA03262D626600B93103 /* ACPAnalytics.xcframework */,
 			);
-			name = ACPAnalytics;
-			path = "../../../External Dependencies/Adobe/ACPAnalytics";
+			path = ACPAnalytics;
 			sourceTree = "<group>";
 		};
 		860FFA04262D626600B93103 /* ACPMobileServices */ = {
@@ -92,8 +92,7 @@
 			children = (
 				860FFA05262D626600B93103 /* ACPMobileServices.xcframework */,
 			);
-			name = ACPMobileServices;
-			path = "../../../External Dependencies/Adobe/ACPMobileServices";
+			path = ACPMobileServices;
 			sourceTree = "<group>";
 		};
 		860FFA06262D626600B93103 /* ACPCore */ = {
@@ -104,8 +103,7 @@
 				860FFA09262D626600B93103 /* ACPCore.xcframework */,
 				860FFA0A262D626600B93103 /* ACPLifecycle.xcframework */,
 			);
-			name = ACPCore;
-			path = "../../../External Dependencies/Adobe/ACPCore";
+			path = ACPCore;
 			sourceTree = "<group>";
 		};
 		860FFA12262D627200B93103 /* Frameworks */ = {
